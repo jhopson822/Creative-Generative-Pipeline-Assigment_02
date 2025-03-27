@@ -1,4 +1,4 @@
-# 4-Comma-Assignment_01
+# Creative-Generative-Pipeline_02
 Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University (Spring 2025)
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
