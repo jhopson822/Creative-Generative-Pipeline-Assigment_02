@@ -35,7 +35,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   </p>
 </div>
 
-[![4-comma][images-fig1]](https://example.com)
+[![genpipeline][images-fig1]](https://example.com)
 
 *Figure 1. This is my 4-comma, its show casing my main chacrters from my body of work Nia and Tyrell interacting with each other in a funny way. Nia, the older sister wants to have a differnt hairsytle for the day but tyrell only cares about his game.
 <!-- Abstract -->
@@ -46,7 +46,7 @@ My Yonkuma is based on my body of work, Duskfire Chronicles. In doing so, I want
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-[![4-comma][images-fig2]](https://example.com)
+[![genpipeline][images-fig2]](https://example.com)
 
 *Figure 2. This is showing how diffrent types of hair looks like.*
 
@@ -57,32 +57,48 @@ Having an interest in black culture I wanted to really focus if AI can really be
 
 
 ## Methodology
-[![4-comma][images-fig3]](https://example.com)
+[![genpipeline][images-fig3]](https://example.com)
 
 *Figure 3. My first attempt at finding type 4 hairstyles for black women(SmartHairAI)*
+
+[![genpipeline][images-fig4]](https://example.com)
+
+*Figure 4.  My second attempt at finding type 4 hairstyles for black women(Creator Night Cafe) *
+
+
+[![genpipeline][images-fig5]](https://example.com)
+
+*Figure 5.  My second attempt at finding type 4 hairstyles for black women(Creator Night Cafe) *
+
+[![genpipeline][images-fig6]](https://example.com)
+
+*Figure 6.  My second attempt at finding type 4 hairstyles for black women(Creator Night Cafe) *
+
 
 
 For my process I began to look up different AI websites that would generate images and ones that specifically catered to hairstyles. The first website I used was called SmartHairAi. This website asked for a hair pattern, inspired by, persona, hair length and angle. I put in black 4c for a hair pattern, inspired by an African American,  persona as a woman , medium or long hair length and front face to show the full hair. Unfortunately, the hairstyles were not 4c and most of them weren't even 4 type hair. I did it multiple times and even one time I think I asked for too much and it gave me a result that seems like a white woman with red hair facing another way. For the next website it was called creator night cafe. This website lets me write whatever I can think of. Surprisingly after my last attempt i got a render with a model with 4c hair which i knew i was going in the right direction. I used two more websites that were similar to the last and not much had different results and was wondering if I would ever get good results. 
 
 
-[![4-comma][images-fig4]](https://example.com)
+[![genpipeline][images-fig7]](https://example.com)
 
-*Figure 4.  My second attempt at finding type 4 hairstyles for black women(Creator Night Cafe) *
+*Figure 7.  My third attempt at finding type 4 hairstyles for black women(Vondy)*
 
+[![genpipeline][images-fig8]](https://example.com)
+
+*Figure 8.  My final attempt at finding type 4 hairstyles for black wome(ChatGPT)*
+
+[![genpipeline][images-fig9]](https://example.com)
+
+*Figure 9.  My third attempt at finding type 4 hairstyles for black women(Vondy)*
+
+[![genpipeline][images-fig10]](https://example.com)
+
+*Figure 10.  My final attempt at finding type 4 hairstyles for black wome(ChatGPT)*
 
 ## Result and Future Work
 
 
 After many trials of finding the right kind of hair for African American women, I finally found a good match in ChatGPT. I used the paid version from my friend and asked to type in black hairstyles for black women with 4c hair and results were successful. It also generated multiple choices in one search which was not common in other websites. I can see with my future work if I need to find hairstyles for my black characters. I could generate ideas on the paid version and have a very accurate result. 
-
-
-[![4-comma][images-fig5]](https://example.com)
-
-*Figure 5.  My third attempt at finding type 4 hairstyles for black women(Vondy)*
-
-[![4-comma][images-fig6]](https://example.com)
-
-*Figure 6.  My final attempt at finding type 4 hairstyles for black wome(ChatGPT)*
 
 
 
@@ -146,6 +162,10 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [images-fig4]: images/fig4.png
 [images-fig5]: images/fig5.png
 [images-fig6]: images/fig6.png
+[images-fig7]: images/fig7.png
+[images-fig8]: images/fig8.png
+[images-fig9]: images/fig9.png
+[images-fig10]: images/fig10.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
