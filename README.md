@@ -21,7 +21,7 @@ Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: DUSKFIRE CHRONICLES SHORTS: CROWN (Creating a Respectful and Open World for Natural Hair) </h3>
+  <h3 align="center">Creative-Generative-Pipeline: Hair types (Creating a Respectful and Open World for Natural Hair) </h3>
 
   <p align="center">
     Using characters from my body of work, I made a 4 panel yonkoma that shows what AI can generate for black people hairstyles.
